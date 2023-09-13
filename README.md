@@ -1,4 +1,4 @@
-<img src="img/monteiroBank.png">
+![](./img/monteiroBank.png)
 
 # API do banco digital Monteiro Bank
 
@@ -55,12 +55,24 @@ No Insomnia import o arquivo disponível no projeto.
 
 ## Capturas de tela Insomnia
 
-![](./screenshoots/Captura%20de%20tela%202023-08-23%20093107.png)
+![](./img/Captura%20de%20tela%20de%202023-09-13%2011-58-28.png)
 
-![](./screenshoots/Captura%20de%20tela%202023-08-23%20090533.png)
+![](./img/Captura%20de%20tela%20de%202023-09-13%2011-58-45.png)
 
-![](./screenshoots/Captura%20de%20tela%202023-08-23%20090811.png)
+![](./img/Captura%20de%20tela%20de%202023-09-13%2011-59-11.png)
+
+![](./img/Captura%20de%20tela%20de%202023-09-13%2011-59-36.png)
+
+![](./img/Captura%20de%20tela%20de%202023-09-13%2011-59-44.png)
+
+![](./img/Captura%20de%20tela%20de%202023-09-13%2011-59-53.png)
+
+![](./img/Captura%20de%20tela%20de%202023-09-13%2012-00-01.png)
+
+![](./img/Captura%20de%20tela%20de%202023-09-13%2012-00-10.png)
+
+![](./img/Captura%20de%20tela%20de%202023-09-13%2012-00-18.png)
 
 ## 📝 Autor
 
-Feito com ❤️ por Letícia Ribeiro 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leticia-ribeiro-dev-eng/)
+Feito por Joseph Monteiro 👋🏽
