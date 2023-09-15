@@ -6,7 +6,7 @@ const validarCpfEEmail = (arrayDasContas, cpf, email) => {
         return conta.cpf === cpf || conta.email === email
     })
 }
-
+//teste do novo ubuntu
 const listarContas = (req, res) => {
     return res.status(200).json(contas)
 }
